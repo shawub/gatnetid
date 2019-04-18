@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `GATNETID`,
+    description: `A PoC demonstration of OAuth using Netlify Identity. The PoC is built with Gatsby static site builder, deployed on Netlify an dusing Netlify functions as a backend.`,
+    author: `@dashaw`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
