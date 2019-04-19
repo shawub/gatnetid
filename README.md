@@ -1,4 +1,4 @@
-#GATNETID
+# GATNETID
 A PoC demonstration of OAuth using Netlify Identity. The PoC is built with Gatsby static site builder, deployed on Netlify an dusing Netlify functions as a backend.
 
 ## Prerequisites
